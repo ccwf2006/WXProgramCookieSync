@@ -1,3 +1,5 @@
 在项目中import network这个模块就可以愉快的使用了.
 如果需要修改,请自己配置typescript 2.x环境.
 不想使用typescript的,可以直接import 编译好的js文件.
+目前重写了 wx.request 方法,支持get与post请求.
+项目中用了几个月,没发现什么问题.
